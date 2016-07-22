@@ -10,6 +10,7 @@ MANRIQUE, John Peter Oyardo. Reconstrução do espectro de fótons de acelerador
 * Citations: MANRIQUE, John Peter Oyardo/ Manrique, J. P. O.(2015).
 * (This program has run with Code blocks 16:01 version )
 *********************************************************************************/
+
 Compile exp_g.cpp 
 Run  exp_g.exe
 “ Ingress bin size (default> h=0.01)”:         0.01

@@ -2,7 +2,7 @@
 D-Generalized Functions:
 Instructions for obtained the figure 9 of theses:
 MANRIQUE, John Peter Oyardo. Reconstrução do espectro de fótons de aceleradores lineares clínicos com base na curva de transmissão e no algoritmo de recozimento simulado generalizado [online]. Ribeirão Preto : Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo, 2015. Dissertação de Mestrado em Física Aplicada à Medicina e Biologia. [acesso 2016-05-02]. Disponível em: <http://www.teses.usp.br/teses/disponiveis/59/59135/tde-31012016-151001/>.
-/*********************************************************************************
+ /*********************************************************************************
 * This file is part of the Generalized Simulated Annealing (GSA-1.0) program
 * John Peter Oyardo Manrique <johnp067@usr.br>
 * Copyright (c) 2016-2025 John Oyardo.  All Rights Reserved.

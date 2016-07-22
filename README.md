@@ -8,7 +8,7 @@ MANRIQUE, John Peter Oyardo. Reconstrução do espectro de fótons de acelerador
 * Copyright (c) 2016-2025 John Oyardo.  All Rights Reserved.
 * GSA-1.0-LICENSE file has the license that must be included with GSA-1.0 code.
 * Citations: MANRIQUE, John Peter Oyardo/ Manrique, J. P. O.(2015).
- (This program has run with Code blocks 16:01 version )
+* (This program has run with Code blocks 16:01 version )
 /*********************************************************************************
 Compile exp_g.cpp 
 Run  exp_g.exe
